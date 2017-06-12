@@ -98,13 +98,13 @@ main{
     background: linear-gradient(to top left, #9c74f2, #2d1651);
     display: flex;
     flex-direction: column;
-    margin-bottom: 20px;
-}
-.about span{
-    display: flex;
     justify-content: center;
     align-items: center;
     align-content: center;
+    margin-bottom: 25px;
+}
+.about span{
+    display: block;
     text-align: center;
     border: 1px solid #e1d1f9;
     border-radius: 20%;
@@ -124,10 +124,7 @@ main{
     font-size: 25px;
 }
 .button {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    align-content: center;
+    display: block;
     color: #392852;
     text-decoration: none;
     border: 2px solid #ffffff;
@@ -178,12 +175,14 @@ main{
 footer{
     width:100%;
     background-color: #DADAD8;
+    display: flex;
+    justify-content: center;
 }
 .footer-block{
     max-width: 1200px;
-    margin: auto;
     display: flex;
     align-items: flex-start;
+    justify-content: center;
     flex-direction: column;
     padding: 0 20px;
 }
@@ -202,12 +201,11 @@ footer{
 }
 .footer-block a{
     text-decoration: none;
-    color: #000000;
-    opacity: 0.8;
+    color: #2d1651;
 }
 .footer-block p{
     min-width: 300px;
-    color: #000000;
+    color: #2d1651;
     opacity: 0.6;
 }
 
