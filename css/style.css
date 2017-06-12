@@ -11,6 +11,23 @@ header{
     position: relative;
     height: 60px;
 }
+.menu-mobile{
+    display: none;
+}
+.hamburger{
+    position: absolute;
+    left: 0;
+    top: 10px;
+}
+.mm-panels>.mm-panel.mm-hasnavbar{
+    padding-top: 80px;
+}
+.mm-menu.mm-offcanvas{
+    width: 35%;
+}
+.mm-panels>.mm-panel{
+    padding: 0 0 0 25px;
+}
 .top-line{
     max-width: 1200px;
     height: 100%;
@@ -24,7 +41,7 @@ header{
 }
 .logo{
     font-weight: bold;
-    min-width: 200px;
+    min-width: 180px;
     text-align: center;
 }
 .logo a{
@@ -32,6 +49,7 @@ header{
     color: #563d7c;
 }
 .navigation{
+    max-width: 1200px;
     max-height: 60px;
 }
 .nav-item{
@@ -40,16 +58,16 @@ header{
     text-decoration: none;
     flex-wrap: nowrap;
     margin: 0;
+    padding: 0;
     height: 100%;
 }
 .nav-item li{
     display: flex;
     justify-content: center;
     align-items: center;
-    max-width: 100px;
+    min-width: 90px;
     height: 100%;
     list-style-type: none;
-    text-align: center;
 }
 .nav-item .active{
     font-weight: 600;
@@ -83,8 +101,8 @@ main{
     text-align: center;
     border: 1px solid #e1d1f9;
     border-radius: 20%;
-    max-width: 150px;
-    max-height: 150px;
+    width: 150px;
+    height: 150px;
     font-size: 90px;
     margin: 0 auto;
 }
@@ -92,12 +110,11 @@ main{
     display: flex;
     justify-content: center;
     margin: 0 auto;
-    padding: 30px 0;
+    padding: 30px;
     height: auto;
     max-width: 900px;
     text-align: center;
     font-size: 25px;
-    line-height: 1.8;
 }
 .button {
     display: inline-block;
@@ -110,7 +127,6 @@ main{
     letter-spacing: 3px;
     border-radius: 20px;
     text-align: center;
-    position: relative;
     outline: none;
     margin: 0 auto;
 }
@@ -119,7 +135,7 @@ main{
     border: #e8d2f4;
 }
 .content{
-    width: 100%;
+    max-width: 1000px;
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -128,14 +144,14 @@ main{
     color: #392852;
 }
 .content-col{
-    min-height: 400px;
-    max-width: 500px;
+    min-height: 300px;
+    min-width: 300px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
     align-content: center;
-    padding: 15px;
+    padding: 20px 10px;
     margin: 0 30px;
 }
 .content-col p{
@@ -151,14 +167,16 @@ footer{
     width:100%;
     display: flex;
     flex-direction: column;
+    align-items: center;
+    justify-content: center;
     background-color: #DADAD8;
 }
 .footer-block{
-    max-width: 1000px;
-    margin: 0 auto;
+    max-width: 1200px;
     display: flex;
     align-items: flex-start;
     flex-direction: column;
+    padding: 0 20px;
 }
 .footer-block ul{
     display: flex;
@@ -168,7 +186,7 @@ footer{
     margin-bottom: 0;
 }
 .footer-block li{
-    min-width: 100px;
+    min-width: 80px;
     list-style-type: none;
 }
 .footer-block a{
@@ -184,34 +202,83 @@ footer{
 }
 
 @media only screen and (max-width : 1200px){
-    .nav-item li{
-        width: 85px;
-    }
-    .about p{
-        font-size: 23px;
+    .menu-mobile{
+        display: none;
     }
 }
 @media only screen and (max-width : 1024px){
     .nav-item li{
-        width: 80px;
+        min-width: 80px;
     }
-
-    .content{
+    .content {
         flex-direction: column;
+    }
+    .content-col{
+        max-width: 700px;
     }
 }
 @media only screen and (max-width : 992px){
     .nav-item li{
-        width: 75px;
-        font-size: 14px;
+        min-width: 75px;
+    }
+    .logo{
+        min-width: 170px;
+    }
+    .about{
+        padding: 70px 0;
+    }
+}
+@media only screen and (max-width : 860px){
+    .navigation{
+        visibility: hidden;
+    }
+    .logo{
+        margin-left: 100px;
+    }
+    .menu-mobile{
+        display: flex;
     }
 
 }
 @media only screen and (max-width : 700px){
-
+    .about{
+        padding: 60px 0;
+    }
+    .about span{
+        width: 120px;
+        height: 120px;
+        font-size: 70px;
+    }
+    .about p{
+        font-size: 20px;
+        line-height: 1.6;
+    }
+    .button{
+        padding: 10px 40px;
+        font-size: 15px;
+    }
 }
 @media only screen and (max-width : 480px){
-
+    .about{
+        padding: 50px 0;
+    }
+    .about span{
+        width: 100px;
+        height: 100px;
+        font-size: 60px;
+    }
+    .about p{
+        font-size: 18px;
+        line-height: 1.4;
+    }
+    .button{
+        padding: 8px 35px;
+        font-size: 12px;
+    }
+    .content-col p{
+        font-size: 15px;
+        line-height: 1.6;
+    }
 }
 @media only screen and (max-width : 320px){
 

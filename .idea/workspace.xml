@@ -2,7 +2,79 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89629343-0504-410b-8a40-1242f8b6aa8b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/hamburgers.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery-3.2.1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/css-hamburgers/hamburgers.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/addons/autoheight/jquery.mmenu.autoheight.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/addons/autoheight/jquery.mmenu.autoheight.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/addons/backbutton/jquery.mmenu.backbutton.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/addons/columns/jquery.mmenu.columns.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/addons/columns/jquery.mmenu.columns.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/addons/counters/jquery.mmenu.counters.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/addons/counters/jquery.mmenu.counters.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/addons/dividers/jquery.mmenu.dividers.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/addons/dividers/jquery.mmenu.dividers.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/addons/drag/jquery.mmenu.drag.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/addons/drag/jquery.mmenu.drag.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/addons/dropdown/jquery.mmenu.dropdown.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/addons/dropdown/jquery.mmenu.dropdown.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/addons/fixedelements/jquery.mmenu.fixedelements.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/addons/iconpanels/jquery.mmenu.iconpanels.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/addons/iconpanels/jquery.mmenu.iconpanels.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/addons/keyboardnavigation/jquery.mmenu.keyboardnavigation.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/addons/keyboardnavigation/jquery.mmenu.keyboardnavigation.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/addons/lazysubmenus/jquery.mmenu.lazysubmenus.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/addons/navbars/jquery.mmenu.navbars.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/addons/navbars/jquery.mmenu.navbars.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/addons/offcanvas/jquery.mmenu.offcanvas.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/addons/offcanvas/jquery.mmenu.offcanvas.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/addons/rtl/jquery.mmenu.rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/addons/rtl/jquery.mmenu.rtl.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/addons/screenreader/jquery.mmenu.screenreader.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/addons/screenreader/jquery.mmenu.screenreader.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/addons/scrollbugfix/jquery.mmenu.scrollbugfix.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/addons/searchfield/jquery.mmenu.searchfield.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/addons/searchfield/jquery.mmenu.searchfield.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/addons/sectionindexer/jquery.mmenu.sectionindexer.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/addons/sectionindexer/jquery.mmenu.sectionindexer.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/addons/setselected/jquery.mmenu.setselected.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/addons/setselected/jquery.mmenu.setselected.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/addons/toggles/jquery.mmenu.toggles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/addons/toggles/jquery.mmenu.toggles.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/css/jquery.mmenu.all.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/css/jquery.mmenu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/css/jquery.mmenu.oncanvas.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/extensions/borderstyle/jquery.mmenu.borderstyle.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/extensions/effects/jquery.mmenu.effects.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/extensions/fullscreen/jquery.mmenu.fullscreen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/extensions/iconbar/jquery.mmenu.iconbar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/extensions/justifiedlistview/jquery.mmenu.justifiedlistview.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/extensions/multiline/jquery.mmenu.multiline.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/extensions/pagedim/jquery.mmenu.pagedim.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/extensions/popup/jquery.mmenu.popup.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/extensions/positioning/jquery.mmenu.positioning.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/extensions/shadows/jquery.mmenu.shadows.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/extensions/themes/jquery.mmenu.themes.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/extensions/tileview/jquery.mmenu.tileview.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/extensions/widescreen/jquery.mmenu.widescreen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/js/jquery.mmenu.all.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/js/jquery.mmenu.all.min.umd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/js/jquery.mmenu.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/js/jquery.mmenu.min.umd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/js/jquery.mmenu.oncanvas.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/wrappers/angular/jquery.mmenu.angular.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/wrappers/bootstrap/jquery.mmenu.bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/wrappers/bootstrap/jquery.mmenu.bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/wrappers/jquerymobile/jquery.mmenu.jquerymobile.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/wrappers/magento/jquery.mmenu.magento.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/wrappers/olark/jquery.mmenu.olark.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/wrappers/turbolinks/jquery.mmenu.turbolinks.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/mmenu/wrappers/wordpress/jquery.mmenu.wordpress.min.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/normalize.css" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,24 +88,24 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.55056787">
+    <splitter split-orientation="horizontal" split-proportion="0.62195784">
       <split-first>
         <leaf>
-          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/index.html">
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../S-Mitler/_html/app/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1276">
-                  <caret line="47" column="81" lean-forward="false" selection-start-line="47" selection-start-column="81" selection-end-line="47" selection-end-column="81" />
+                <state relative-caret-position="232">
+                  <caret line="38" column="20" lean-forward="true" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="normalize.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/css/normalize.css">
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <state relative-caret-position="-667">
+                  <caret line="33" column="57" lean-forward="true" selection-start-line="33" selection-start-column="57" selection-end-line="33" selection-end-column="57" />
                   <folding />
                 </state>
               </provider>
@@ -46,8 +118,8 @@
           <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="522">
-                  <caret line="96" column="16" lean-forward="false" selection-start-line="96" selection-start-column="16" selection-end-line="96" selection-end-column="16" />
+                <state relative-caret-position="348">
+                  <caret line="51" column="22" lean-forward="false" selection-start-line="51" selection-start-column="22" selection-end-line="51" selection-end-column="22" />
                   <folding />
                 </state>
               </provider>
@@ -71,6 +143,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/css/normalize.css" />
+        <option value="$PROJECT_DIR$/css/hamburgers.css" />
+        <option value="$PROJECT_DIR$/js/common.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
       </list>
@@ -112,6 +186,74 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mmenu" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mmenu" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -210,21 +352,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1496844326572</updated>
-      <workItem from="1496844329715" duration="33955000" />
+      <workItem from="1496844329715" duration="48284000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33955000" />
+    <option name="totallyTimeSpent" value="48284000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="0" width="1909" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12655489" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09734992" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="CSS-X-Fire" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -234,7 +377,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -252,6 +394,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/css/hamburgers.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/normalize.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -260,18 +410,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../S-Mitler/_html/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="38" column="20" lean-forward="true" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1276">
-          <caret line="47" column="81" lean-forward="false" selection-start-line="47" selection-start-column="81" selection-end-line="47" selection-end-column="81" />
+        <state relative-caret-position="-667">
+          <caret line="33" column="57" lean-forward="true" selection-start-line="33" selection-start-column="57" selection-end-line="33" selection-end-column="57" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="96" column="16" lean-forward="false" selection-start-line="96" selection-start-column="16" selection-end-line="96" selection-end-column="16" />
+        <state relative-caret-position="348">
+          <caret line="51" column="22" lean-forward="false" selection-start-line="51" selection-start-column="22" selection-end-line="51" selection-end-column="22" />
           <folding />
         </state>
       </provider>
