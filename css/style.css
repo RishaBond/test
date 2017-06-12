@@ -98,9 +98,13 @@ main{
     background: linear-gradient(to top left, #9c74f2, #2d1651);
     display: flex;
     flex-direction: column;
+    margin-bottom: 20px;
 }
 .about span{
-    display: block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
     text-align: center;
     border: 1px solid #e1d1f9;
     border-radius: 20%;
@@ -120,14 +124,17 @@ main{
     font-size: 25px;
 }
 .button {
-    display: inline-block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
     color: #392852;
     text-decoration: none;
     border: 2px solid #ffffff;
     padding: 15px 45px;
     font-size: 18px;
     text-transform: uppercase;
-    letter-spacing: 3px;
+    letter-spacing: 4px;
     border-radius: 20px;
     text-align: center;
     outline: none;
@@ -184,6 +191,7 @@ footer{
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
+
     padding: 0;
     margin-bottom: 0;
 }
@@ -218,6 +226,7 @@ footer{
     .content {
         flex-direction: column;
         margin: 0;
+        margin-bottom: 20px;
     }
     .content-col{
         max-width: 700px;
@@ -232,7 +241,7 @@ footer{
         min-width: 170px;
     }
     .about{
-        padding: 70px 0;
+        padding: 65px 0;
     }
 }
 @media only screen and (max-width : 860px){
@@ -248,7 +257,7 @@ footer{
 }
 @media only screen and (max-width : 700px){
     .about{
-        padding: 60px 0;
+        padding: 50px 0;
     }
     .about span{
         width: 120px;
@@ -272,7 +281,7 @@ footer{
 }
 @media only screen and (max-width : 480px){
     .about{
-        padding: 50px 0;
+        padding: 40px 0;
     }
     .about span{
         width: 100px;
@@ -286,10 +295,20 @@ footer{
     .button{
         padding: 8px 35px;
         font-size: 12px;
+        letter-spacing: 3px;
+    }
+    .content-col{
+        padding: 0 15px;
     }
     .content-col p{
         font-size: 15px;
         line-height: 1.6;
+        margin: 0;
+    }
+    .content-col h3{
+        font-size: 17px;
+        line-height: 1.5;
+        margin-top: 0;
     }
     .footer-block{
         font-size: 14px;
@@ -297,5 +316,10 @@ footer{
     }
     .footer-block li {
         width: 75px;
+    }
+}
+@media only screen and (max-width : 320px){
+    .about{
+        padding: 20px 0;
     }
 }
